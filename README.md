@@ -1,6 +1,6 @@
 # Multi-Class Logistic Regression and Optimization Methods for Clustering
 
-## Topic:
+## Project Topic:
 ### Solving Multi-Class Logistic Regression using:
 - Gradient Descent (GD)
 - Block Coordinate Gradient Descent (BCGD) with Randomized Rule
@@ -8,9 +8,9 @@
 
 ---
 
-## Project :
-### Optimization Methods for Clustering
-This project implements:
+## Project Topic:
+### Optimization Methods for Clustering:
+This project implements
 - **Frank-Wolfe Algorithm**
 - **Pairwise Frank-Wolfe**
 - **Away-Step Frank-Wolfe**
