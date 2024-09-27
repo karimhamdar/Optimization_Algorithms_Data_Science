@@ -8,6 +8,7 @@ e implemented and tested the following optimization methods:
 - **Gradient Descent (GD)**
 - **Block Coordinate Gradient Descent (BCGD) with Randomized Rule**
 - **Block Coordinate Gradient Descent (BCGD) with Gauss-Southwell (GS) Rule**
+
 To test and evaluate our algorithms, we used the Dry Bean Dataset and the Microbes Dataset.
 ---
 
@@ -19,6 +20,7 @@ The algorithms implemented in this project include:
 - **Frank-Wolfe Algorithm**
 - **Pairwise Frank-Wolfe**
 - **Away-Step Frank-Wolfe**
+
 To test and evaluate our algorithms, we used DIMACS datasets, a widely recognized set of benchmarks for graph-related problems.
 
 ---
