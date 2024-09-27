@@ -9,7 +9,7 @@ e implemented and tested the following optimization methods:
 - **Block Coordinate Gradient Descent (BCGD) with Randomized Rule**
 - **Block Coordinate Gradient Descent (BCGD) with Gauss-Southwell (GS) Rule**
 
-To test and evaluate our algorithms, we used the Dry Bean Dataset and the Microbes Dataset.
+  To test and evaluate our algorithms, we used the Dry Bean Dataset and the Microbes Dataset.
 ---
 
 ## Clustering Project Topic:
